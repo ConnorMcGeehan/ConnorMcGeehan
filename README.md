@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Connor McGeehan, a Senior Computer Science and Mathematics double major at Ithaca College. I'm looking for Software Engineering or Data Science roles where I can apply my interests in programming and math. 
+
+I'm currently working on a project where you can play chess with other people and have your moves recommended/evaluated.
+
+If you want to see stuff I've worked on check out my pinned repositories. I'm familiar and enjoy working with Python, Java, C, and React. My LinkedIn is linked in my bio if you want to connect!
+
 <!--
 **ConnorMcGeehan/ConnorMcGeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
